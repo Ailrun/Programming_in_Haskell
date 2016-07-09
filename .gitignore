@@ -1,0 +1,12 @@
+#emacs temp file
+*~
+
+#haskell interface files
+*.hi
+
+#object files
+*.o
+*.exe
+
+#other ignore files
+*.zip
